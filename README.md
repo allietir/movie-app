@@ -48,4 +48,4 @@ The following external packages were used:
 
 ## Time Constraints
 
-Isaac suggested that I take 2-3 hours to complete this. I wanted to add the "optional" and "bonus" specifications so truthfully I ended up taking closer to 5 hours before wrapping up the documentation and without writing any tests. I also implemented very simple error handling and recognize it could be done with more complexity. One thing that Isaac mentioned in our interview together is that this assessment would serve as a conversation starter, and I would be asked some questions and given some feedback, so I wanted to get this sent in quickly. I look forward to hearing the feedback as well as some discussions around testing. Thanks!
+It was suggested that I take 2-3 hours to complete this. I wanted to add the "optional" and "bonus" specifications so truthfully I ended up taking closer to 5 hours before wrapping up the documentation and without writing any tests. I also implemented very simple error handling and recognize it could be done with more complexity. I am happy to follow-up about how I write tests for this app and answer any questions.
